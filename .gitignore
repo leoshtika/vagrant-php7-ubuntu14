@@ -1,0 +1,8 @@
+# netbeans project folder
+nbproject/
+
+# Composer vendor folder
+vendor/
+
+# Vagrant folder
+.vagrant/
